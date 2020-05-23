@@ -1,8 +1,9 @@
 Command git.
 
-1. -Sudo apt-get update       
-   -Sudo apt-get install git    ( install git di ubuntu)
+1. -Sudo apt-get update ,Sudo apt-get install git ( untuk Ubuntu)
 2 . Membuat file di master
 3.  Membuat branch
 4.  Membuat conflik dam menyelesaikan conflik
+5.  Membuat Marge
+
  
