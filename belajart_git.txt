@@ -1,1 +1,5 @@
 Command git.
+
+1. -Sudo apt-get update        ( install git di ubuntu)
+   -Sudo apt-get install git    ( install git di ubuntu)
+ 
